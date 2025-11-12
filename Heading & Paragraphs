@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+     
+  	<head>
+                 <title> Heading & paragraphs </title>
+      
+	</head>
+	
+	<body>
+
+		<h1 align ="center"> Hello world </h1> <hr/>    <!-- heading total 6 ta <h1> to <h6> -->
+               <p> “Hello World” is often the very first program that beginners write when 		learning a new programming language.</P>      
+               					<!-- <p> </P> this is paragraphs tag -->
+
+		It’s a simple way to check if
+ 		everything is working correctly and the code runs without errors. The phrase 		itself symbolizes a friendly greeting to the world of programming. Although it 		looks simple, it marks the beginning of a long and exciting journey of 			learning and discovery. Every programmer remembers their first “Hello World” 		moment as a special step into the world of coding.
+		<h2 align ="right"> Topon sorkar </h2>
+		<h3 aligh ="left">  I am a student </h3>
+		<h4>  Metropolitan university </h4>
+		<h5> Department of cse </h5>
+		<h6> Thank you  </h6>
+
+	</body>
+</html>
